@@ -28,8 +28,8 @@ Quick Start
 -----------
 
 ```shell
-$ git clone https://github.com/r-park/soundcloud-redux.git
-$ cd soundcloud-redux
+$ git clone https://github.com/eskimo1228/React-Redux-SoundCloud-.git
+$ cd React-Redux-SoundCloud-
 $ npm install
 $ npm start
 ```
@@ -43,4 +43,3 @@ NPM Commands
 |npm start|Start webpack development server @ **localhost:3000**|
 |npm run build|Build production bundles to **./build** directory|
 |npm run server|Start express server @ **localhost:3000** to serve build artifacts from **./build** directory|
-"## " 
